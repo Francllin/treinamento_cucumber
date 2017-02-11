@@ -6,6 +6,7 @@ Eu, como usuário do groupon
 Desejo realizar meu cadastro
 Para adquirir descontos.
 
+@carrega_dados
 @cadastro_sucesso
 Cenario: Cadastro com sucesso
 Dado que eu acesse a pagina de cadastro
